@@ -1,0 +1,11 @@
+{
+  "name": "ZombieBastion",
+  "short_name": "ZombieBastion",
+  "description": "Tactical zombie defense game",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}
